@@ -1,2 +1,2 @@
 # tribhuvan1998.github.io
-Websites for portfolios and webpages
+Websites for portfolio and other projects
